@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="development.sqlite3" uuid="ad981dd2-d4e9-4c1f-8890-fe9f867cbd50">
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:</introspection-schemas>
+    </data-source>
+    <data-source name="Rails depot: development" uuid="f5a733cc-540a-421c-82a9-21e897728e65">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails depot: production" uuid="519f6370-dae2-4b71-b042-3a9e78e12a11">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>username</user-name>
+    </data-source>
+    <data-source name="Rails depot: test" uuid="3ca577d7-ad10-45f2-8da4-23cc97caa50d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
